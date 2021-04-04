@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jungheun9
+- 👋 Hi, I’m Hyeonku Jeong
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning java spring boot
 - 📫 How to reach me hyungu6641@gmail.com
